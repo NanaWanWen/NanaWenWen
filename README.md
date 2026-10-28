@@ -92,7 +92,7 @@
 ### 你好，我是 温珊霞
 
 <p>
-  <a href="https://github.com/NanaWenWen"><img src="https://img.shields.io/badge/GitHub-NanaWenWen-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanaWanWen"><img src="https://img.shields.io/badge/GitHub-NanaWenWen-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:3163350557@qq.com"><img src="https://img.shields.io/badge/Email-3163350557@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/广州-2027届求职中-6DB33F?style=for-the-badge" />
 </p>
