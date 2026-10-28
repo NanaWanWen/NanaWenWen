@@ -92,50 +92,15 @@
 ### 你好，我是 温珊霞
 
 <p>
-  <a href="https://github.com/NanaWanWen"><img src="https://img.shields.io/badge/GitHub-NanaWenWen-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NanaWanWen"><img src="https://img.shields.io/badge/GitHub-NanaWanWen-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:3163350557@qq.com"><img src="https://img.shields.io/badge/Email-3163350557@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/广州-2027届求职中-6DB33F?style=for-the-badge" />
 </p>
 
-<img src="https://ghchart.rshah.org/8ac48a/NanaWenWen" alt="NanaWenWen contribution chart" width="92%" />
+<img src="https://ghchart.rshah.org/8ac48a/NanaWanWen" alt="NanaWanWen contribution chart" width="92%" />
 
 </div>
 
----
 
-## 🚀 GitHub Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NanaWenWen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=57606a" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaWenWen&layout=compact&hide_border=true&title_color=6DB33F&text_color=57606a" width="38%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NanaWenWen&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NanaWenWen&hide_border=true&color=6DB33F&line=6DB33F&point=1f2328&area=true&area_color=b7e4c7" width="100%" alt="activity graph" />
-</div>
-
----
-
-## 🏆 一些小标签
-
-<p>
-  <img src="https://img.shields.io/badge/软考中级-软件设计师-6DB33F?style=flat-square" />
-  <img src="https://img.shields.io/badge/学业成绩-专业前_15%25-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/奖学金-优秀学生-8ac48a?style=flat-square" />
-  <img src="https://img.shields.io/badge/方向-Full--stack_&_AI_Agent-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/2027届-求职中-orange?style=flat-square" />
-</p>
-
----
-
-<div align="center">
-
-⭐ 感谢访问！欢迎逛逛我的仓库，喜欢的话点个 Star
-
-<sub>Last updated: 2026 · Made with ☕ and a lot of console.log</sub>
-
-</div>
