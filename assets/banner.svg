@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500" font-family="-apple-system, Segoe UI, Microsoft YaHei, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f7ee"/>
+      <stop offset="55%" stop-color="#f3f9f1"/>
+      <stop offset="100%" stop-color="#fdf6e3"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff3c4"/>
+      <stop offset="100%" stop-color="#fff3c4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f2933"/>
+      <stop offset="100%" stop-color="#2b3a45"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1500" height="500" fill="url(#bg)"/>
+
+  <!-- soft sun -->
+  <circle cx="1280" cy="120" r="220" fill="url(#sun)"/>
+  <circle cx="1280" cy="120" r="78" fill="#ffe79e"/>
+
+  <!-- floating leaves -->
+  <g fill="#9bd9b0" opacity="0.9">
+    <path d="M180 120 q40 -50 90 -20 q-30 50 -90 20 z"/>
+    <path d="M260 380 q-10 -55 50 -65 q5 55 -50 65 z" fill="#7cc79a"/>
+    <path d="M1120 360 q45 -40 95 -8 q-35 45 -95 8 z" fill="#a7e0bb"/>
+    <path d="M420 60 q35 -35 75 -10 q-25 38 -75 10 z" fill="#7cc79a"/>
+  </g>
+  <g fill="#cdeccf" opacity="0.8">
+    <circle cx="150" cy="430" r="10"/>
+    <circle cx="1350" cy="300" r="14"/>
+    <circle cx="980" cy="70" r="9"/>
+    <circle cx="700" cy="440" r="11"/>
+  </g>
+
+  <!-- laptop -->
+  <g transform="translate(560,170)">
+    <!-- screen -->
+    <rect x="0" y="0" width="380" height="230" rx="16" fill="#d8dde1"/>
+    <rect x="14" y="14" width="352" height="202" rx="8" fill="url(#screen)"/>
+    <!-- code lines -->
+    <g>
+      <rect x="34" y="40" width="120" height="10" rx="5" fill="#6DB33F"/>
+      <rect x="34" y="64" width="200" height="10" rx="5" fill="#e2e8f0"/>
+      <rect x="58" y="88" width="150" height="10" rx="5" fill="#8fd0ff"/>
+      <rect x="58" y="112" width="180" height="10" rx="5" fill="#e2e8f0"/>
+      <rect x="34" y="136" width="90" height="10" rx="5" fill="#f6c177"/>
+      <rect x="34" y="160" width="160" height="10" rx="5" fill="#e2e8f0"/>
+      <rect x="58" y="184" width="110" height="10" rx="5" fill="#6DB33F"/>
+    </g>
+    <!-- base -->
+    <path d="M-26 230 h432 l24 26 h-480 z" fill="#c2c8cd"/>
+    <rect x="-26" y="230" width="432" height="8" rx="4" fill="#aeb4b9"/>
+  </g>
+
+  <!-- coffee cup -->
+  <g transform="translate(420,300)">
+    <path d="M0 0 h64 v54 a10 10 0 0 1 -10 10 h-44 a10 10 0 0 1 -10 -10 z" fill="#ffffff" stroke="#d0d7de" stroke-width="3"/>
+    <path d="M64 12 h16 a16 16 0 0 1 0 32 h-16" fill="none" stroke="#d0d7de" stroke-width="3"/>
+    <path d="M12 18 h40 v34 a6 6 0 0 1 -6 6 h-28 a6 6 0 0 1 -6 -6 z" fill="#8b5e3c"/>
+    <path d="M22 -10 q10 -10 0 -20" fill="none" stroke="#cfd6db" stroke-width="3" opacity="0.6"/>
+    <path d="M38 -10 q10 -10 0 -20" fill="none" stroke="#cfd6db" stroke-width="3" opacity="0.6"/>
+  </g>
+
+  <!-- little plant -->
+  <g transform="translate(1020,330)">
+    <rect x="20" y="60" width="56" height="48" rx="8" fill="#c98a5e"/>
+    <path d="M48 60 q-30 -40 -8 -64 q14 24 8 64 z" fill="#7cc79a"/>
+    <path d="M48 60 q30 -36 10 -60 q-10 22 -10 60 z" fill="#9bd9b0"/>
+    <path d="M48 60 q4 -50 0 -58" fill="none" stroke="#6fae87" stroke-width="3"/>
+  </g>
+
+  <!-- name plate -->
+  <text x="120" y="285" font-size="64" font-weight="800" fill="#2f6b46">Shanxia Wen</text>
+  <text x="124" y="322" font-size="22" fill="#5a8a6e" letter-spacing="2">Full-stack Developer · AI Application Builder</text>
+</svg>
